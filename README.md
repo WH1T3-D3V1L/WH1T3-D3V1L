@@ -11,7 +11,7 @@ pip install bs4
 pip install npm
 pip install future
 rm -rf Bypass
-git clone https://github.com/syedzada1100/WH1T3-D3V1L.git
+git clone https://github.com/WH1T3-D3V1L/WH1T3-D3V1L.git
 cd WH1T3-D3V1L
 chmod 777 Fahmid
 ./Fahmid
